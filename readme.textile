@@ -1,0 +1,8 @@
+
+2010-09-24
+
+A collection of assets to be used in testing house.
+This is in a separate repository as we don't need to deploy these assets
+
+
+(c) Copyright 2010 Dougal MacPherson, Newfangled Pty Ltd. All Rights Reserved
